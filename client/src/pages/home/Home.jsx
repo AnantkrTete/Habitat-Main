@@ -17,11 +17,11 @@ const Home = () => {
 
         <div className="homeContainer">
           <Featured/>
-        <h1 className="homeTitle">
+        {/* <h1 className="homeTitle">
           <br />
           Browse by Property type
         </h1>
-        <PropertyList/>
+        <PropertyList/> */}
         <h1 className="homeTitle">
           <br />
           Some of Our Properties
